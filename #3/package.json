@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha #3.spec.js"
+    "test": "./node_modules/mocha/bin/mocha hw3.spec.js"
   },
   "author": "legir",
   "license": "ISC"
