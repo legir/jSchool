@@ -1,0 +1,14 @@
+{
+  "name": "3",
+  "version": "1.0.0",
+  "description": "hw with tests",
+  "main": "#3.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha #3.spec.js"
+  },
+  "author": "legir",
+  "license": "ISC"
+}
