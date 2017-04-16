@@ -1,18 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-module.exports = './hw3.js'
-=======
-=======
->>>>>>> 8832583b278216a08674db5d0075135b2c4c7ffd
 module.exports.map = map;
 module.exports.reduce = reduce;
 module.exports.every = every;
 module.exports.filter = filter;
 module.exports.sumMultiples = sumMultiples;
-<<<<<<< HEAD
->>>>>>> 8832583b278216a08674db5d0075135b2c4c7ffd
-=======
->>>>>>> 8832583b278216a08674db5d0075135b2c4c7ffd
 
 function map (arr, m) {
   let result = [];
@@ -38,7 +28,7 @@ function reduce (arr, f) {
       }
     }
   return result;
-};  
+};
 
 //____________________
 
