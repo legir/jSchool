@@ -44,11 +44,6 @@ class Queue {
   this.tail = null;
   }
 
-  qe() {
-    let params = [this.queue, this.head, this.tail]
-    return params;
-  }
-
   isEmpty() {
     if (!this.head) {
       return true;
